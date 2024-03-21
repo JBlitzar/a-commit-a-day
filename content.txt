@@ -16,4 +16,9 @@ aae
 blue
 sadge
 leo
+<<<<<<< Updated upstream
 dds
+=======
+dd
+Hello, World!
+>>>>>>> Stashed changes
