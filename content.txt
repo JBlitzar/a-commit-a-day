@@ -35,3 +35,4 @@ e
 friday
 friday evening
 saturday
+sunday
