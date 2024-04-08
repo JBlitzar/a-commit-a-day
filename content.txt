@@ -36,3 +36,4 @@ friday
 friday evening
 saturday
 sunday
+monday
