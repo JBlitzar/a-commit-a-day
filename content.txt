@@ -38,3 +38,4 @@ saturday
 sunday
 monday
 monday evening
+tuesday
