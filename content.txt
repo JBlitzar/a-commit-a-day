@@ -39,3 +39,4 @@ sunday
 monday
 monday evening
 tuesday
+tuesday morning
