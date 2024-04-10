@@ -40,3 +40,4 @@ monday
 monday evening
 tuesday
 tuesday morning
+wednesday afternoon
