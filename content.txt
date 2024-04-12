@@ -42,3 +42,4 @@ tuesday
 tuesday morning
 wednesday afternoon
 thursday afternoon
+friday morning
