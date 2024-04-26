@@ -47,3 +47,4 @@ monday (!!!)
 monday evening
 tuesday morning
 thursday
+Friday
