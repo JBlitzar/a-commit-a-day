@@ -52,3 +52,4 @@ sunday
 monday morning
 A
 tuesday oops
+tuesday
