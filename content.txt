@@ -57,3 +57,4 @@ wednesday
 monday ahh
 tuesday
 wednesday
+thursday
