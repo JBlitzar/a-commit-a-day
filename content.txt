@@ -60,3 +60,4 @@ wednesday
 thursday
 wednesday
 thursday
+sunday
