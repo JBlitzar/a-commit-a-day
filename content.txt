@@ -61,3 +61,4 @@ thursday
 wednesday
 thursday
 sunday
+monday
