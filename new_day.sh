@@ -1,6 +1,6 @@
-msg = $( date +'%A')
-msg = "${msg} (new_day.sh)"
-echo msg
-echo $(msg) >> content.txt
+MSG = $( date +'%A')
+MSG = "${msg} (new_day.sh)"
+echo $MSG
+echo $MSG >> content.txt
 
 bash commit.sh
