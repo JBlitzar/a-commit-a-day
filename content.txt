@@ -71,3 +71,4 @@ tuesday
 
 
 
+(new_day.sh)
