@@ -66,4 +66,6 @@ tuesday
 
 Tuesday (like a month later haha)
 Monday (Also like a month later)
-tuesdayThursday (new_day.sh)
+tuesday
+Thursday (new_day.sh)
+\nThursday (new_day.sh)
