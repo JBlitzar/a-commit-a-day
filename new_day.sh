@@ -1,5 +1,5 @@
-MSG="\n"
-MSG+=$( date +'%A')
+
+MSG=$( date +'%A')
 MSG+=" (new_day.sh)"
 
 echo $MSG
