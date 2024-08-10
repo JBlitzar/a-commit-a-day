@@ -70,3 +70,4 @@ tuesday
 Thursday (new_day.sh)
 Thursday (new_day.sh)
 Thursday (new_day.sh)
+Saturday (new_day.sh)
