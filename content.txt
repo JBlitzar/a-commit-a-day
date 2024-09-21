@@ -80,3 +80,4 @@ monday
 Friday (new_day.sh)
 monday again
 tuesday
+Saturday (new_day.sh)
