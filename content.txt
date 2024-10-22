@@ -83,3 +83,4 @@ tuesday
 Saturday (new_day.sh)
 Monday (new_day.sh)
 Saturday (new_day.sh)
+Tuesday (new_day.sh)
